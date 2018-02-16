@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Sanjana");
 		System.out.println("Age: 17");
 		System.out.println("AP java");
+		System.out.println("Dog");
 	}
 
 }
